@@ -26,7 +26,7 @@ contributions into the final, ready viewable running project.
 Once the pull request has been opened, things might still require some tweaking. 
  - Stylistic choices
  - Unit Tests __And these will likely need to be included on every team project to save a lot of manual digging for quality purposes__
-Or, and it happens, you might have everything just so and ready to go.
+ - Or, and it happens, you might have everything just so and ready to go.
 
 Deployment may be direct from branch, temp merge to master merge, or merged directly, depending on your teams workflow specifics.
 
@@ -35,4 +35,3 @@ And that concludes the Workflow portion of our first guide. Not too shabby there
 Introduction to new topics that need explored:
   - Markdown: Used in pull requests and conversations, useful for many styling choices during the discussion process.
   - Issues: Another good way to track things that need attention. adds a layer of complexity, but not a too difficult one if I remember.
-  
