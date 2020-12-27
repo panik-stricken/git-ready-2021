@@ -6,7 +6,7 @@ Github is designed to be used in a team of developers, to track what is going on
 Branching is the KEY concept behind the working of Git and GitHub. Main is to be ready, ready and viewable, ready, viewable, and running, rea... come in again.
   > The plan then, it to make changes on branches, and only merge the branches when the code works per branch. This creates a wealth of confusion for me. I guess, the best way to get over that is to dive in until it makes sense.
 
-Commits are added, hopefully in small bitesized chunks, to help track changes both proposed, added, and in an effort to assist with rollbacks, whould errors become unweildly.
+Commits are added, hopefully in small bitesized chunks, to help track changes both proposed, added, and in an effort to assist with rollbacks, should errors become unweildly.
 
 Pull requests are used for many things.
   - Screenshots
