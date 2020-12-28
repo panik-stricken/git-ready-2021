@@ -6,3 +6,8 @@ Firstly, this seasons workflow will require:
   - Begin on github, end on github. Cloud storage is GOING to be a thing this year.
 
 Alright. Let's start with the source [GitHub Guides: Flow](https://guides.github.com/introduction/flow/) and the [Results](./doc/flow.md)
+
+ > NOTE: when creating a new branch, use <code>git push --set-upstream origin <var>branchName</var></code> to create the branch on github.
+
+ And so, we have already used an issue in the development of this project, so let's now look at the source [GitHub Guides: Mastering Issues](https://guides.github.com/features/issues/), and the [Results](./doc/issues.md)
+ 
