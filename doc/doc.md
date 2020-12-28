@@ -15,12 +15,12 @@ You can also use the wiki system built into the GitHub product
 
 One of the spefically mentioned features of the Wiki pages is Language Highlighting. I believe this is covered in the Markdown docs.
 
-''' javascript
+``` javascript
  const app = new Vue({
      el: '#app',
      data: {}
  })
-'''
+```
 
 ____
 ### [Back to Index](../README.md)
