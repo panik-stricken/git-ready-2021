@@ -10,4 +10,8 @@ Alright. Let's start with the source [GitHub Guides: Flow](https://guides.github
  > NOTE: when creating a new branch, use <code>git push --set-upstream origin <var>branchName</var></code> to create the branch on github.
 
  And so, we have already used an issue in the development of this project, so let's now look at the source [GitHub Guides: Mastering Issues](https://guides.github.com/features/issues/), and the [Results](./doc/issues.md)
+
+ Documentation is the key to many things. So here we look at the source [GitHub Guides: Documentation](https://guides.github.com/features/wikis/) and the [Result](./doc/doc.md)
+
+ 
  
