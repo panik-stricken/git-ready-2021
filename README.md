@@ -13,5 +13,5 @@ Alright. Let's start with the source [GitHub Guides: Flow](https://guides.github
 
  Documentation is the key to many things. So here we look at the source [GitHub Guides: Documentation](https://guides.github.com/features/wikis/) and the [Result](./doc/doc.md)
 
- 
+And the last bit of today, will be [Markdown](./doc/markdown.md), and the source is, as usual, [GitHub Guides: Markdown](https://guides.github.com/features/mastering-markdown/) 
  
