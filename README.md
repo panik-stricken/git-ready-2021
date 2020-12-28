@@ -10,6 +10,4 @@
 [GitHub Help: Project Boards](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-project-boards)|[Result](./doc/project.md)|Projects have lot's of potential
 
 
-
-
  > NOTE: when creating a new branch, use <code>git push --set-upstream origin <var>branchName</var></code> to create the branch on github.
